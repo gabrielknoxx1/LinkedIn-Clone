@@ -22,11 +22,11 @@ UI Clone - LinkedIn
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
 
-##Contato
+## Contato
 ☎(11) 96139-8325
 📧byelg.sousa@gmail.com
 
-Redes Sociais
+## Redes Sociais
 
 <a href="https://www.linkedin.com/in/gabriel-sousa-5a719893/">
   <img src="https://icomoon.io/icons39f00d9/4/456.svg"></img>
